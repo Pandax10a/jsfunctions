@@ -1,4 +1,4 @@
-let usernames = [`AA`, `AC`, `AD`, `Winner`, `EE`];
+let usernames = [`AA`, `AC`, `AD`, `Winner`, `IAmWinner`];
 
 let counter = 0;
 while (counter < usernames.length) {
